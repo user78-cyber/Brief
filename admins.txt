@@ -1,3 +1,0 @@
-retro,Password@
-admin,admin
-retro,retro
